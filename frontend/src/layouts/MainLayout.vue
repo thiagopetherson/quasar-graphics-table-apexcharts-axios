@@ -58,13 +58,13 @@ const linksData = [
   },
   {
     title: 'Gráfico',
-    caption: 'Legenda do Gráfico',
+    caption: 'Gráfico Populacional',
     icon: 'school',
     link: '/grafico'
   },
   {
     title: 'Tabela',
-    caption: 'Legenda da Tabela',
+    caption: 'Lista de Usuários',
     icon: 'code',
     link: '/tabela'
   },
