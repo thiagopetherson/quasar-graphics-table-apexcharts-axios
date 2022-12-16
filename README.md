@@ -1,5 +1,5 @@
 # quasar-graphics-table-apexcharts-axios
-Projeto criado com Quasar utilizando requisições Axios a uma WebApi e uma API criada com Laravel.
+Projeto criado com Quasar Framework utilizando requisições Axios a uma WebApi e uma API criada com Laravel.
 
 # Gráfico (Requisição a uma API RESTful criada com Laravel)
 ![image](https://user-images.githubusercontent.com/44420212/115618227-c9ef6380-a2c8-11eb-8c76-0280aee5691f.png)
